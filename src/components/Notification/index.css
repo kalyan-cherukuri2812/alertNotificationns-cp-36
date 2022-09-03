@@ -1,0 +1,14 @@
+.n-bg-container {
+  display: flex;
+  align-items: center;
+  border: 1px solid #475569;
+  padding: 20px;
+  border-radius: 8px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.cnl-icon {
+  font-size: 25px;
+  margin-left: 10px;
+}
